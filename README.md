@@ -19,6 +19,7 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 1 | Two Sum | [View](Arrays/001_Two_Sum.cpp) |
 | 217 | Contains Duplicate | [View](Arrays/217_Contains_Duplicate.cpp) |
 | 242 | Valid Anagram | [View](Arrays/242_Valid_Anagram.cpp) |
+| 283 | Move Zeroes | [View](Arrays/283_Move_Zeroes.cpp) |
 
 ---
 
