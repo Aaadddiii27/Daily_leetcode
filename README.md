@@ -20,6 +20,7 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 217 | Contains Duplicate | [View](Arrays/217_Contains_Duplicate.cpp) |
 | 242 | Valid Anagram | [View](Arrays/242_Valid_Anagram.cpp) |
 | 283 | Move Zeroes | [View](Arrays/283_Move_Zeroes.cpp) |
+| 26 | Remove Duplicates from Sorted Array | [View](Arrays/026_Remove_Duplicates_from_Sorted_Array.cpp) |
 
 ---
 
