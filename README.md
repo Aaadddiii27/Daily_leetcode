@@ -22,7 +22,7 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 283 | Move Zeroes | [View](Arrays/283_Move_Zeroes.cpp) |
 | 26 | Remove Duplicates from Sorted Array | [View](Arrays/026_Remove_Duplicates_from_Sorted_Array.cpp) |
 | 136 | Single Number | [View](Arrays/136_Single_Number.cpp) |
-
+| 66 | Plus One | [View](Arrays/066_Plus_One.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
