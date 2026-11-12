@@ -24,6 +24,7 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 136 | Single Number | [View](Arrays/136_Single_Number.cpp) |
 | 66 | Plus One | [View](Arrays/066_Plus_One.cpp) |
 | 169 | Majority Element | [View](Arrays/169_Majority_Element.cpp) |
+| 35 | Search Insert Position | [View](Arrays/035_Search_Insert_Position.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
