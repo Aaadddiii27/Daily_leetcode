@@ -25,6 +25,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 66 | Plus One | [View](Arrays/066_Plus_One.cpp) |
 | 169 | Majority Element | [View](Arrays/169_Majority_Element.cpp) |
 | 35 | Search Insert Position | [View](Arrays/035_Search_Insert_Position.cpp) |
+| 27 | Remove Element | [View](Arrays/027_Remove_Element.cpp) |
+| 389 | Find the Difference | [View](Arrays/389_Find_the_Difference.cpp) |
+| 268 | Missing Number | [View](Arrays/268_Missing_Number.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
