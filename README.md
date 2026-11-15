@@ -28,6 +28,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 27 | Remove Element | [View](Arrays/027_Remove_Element.cpp) |
 | 389 | Find the Difference | [View](Arrays/389_Find_the_Difference.cpp) |
 | 268 | Missing Number | [View](Arrays/268_Missing_Number.cpp) |
+| 88 | Merge Sorted Array | [View](Arrays/088_Merge_Sorted_Array.cpp) |
+| 724 | Find Pivot Index | [View](Arrays/724_Find_Pivot_Index.cpp) |
+| 118 | Pascal's Triangle | [View](Arrays/118_Pascals_Triangle.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
