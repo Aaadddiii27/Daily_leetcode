@@ -31,6 +31,12 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 88 | Merge Sorted Array | [View](Arrays/088_Merge_Sorted_Array.cpp) |
 | 724 | Find Pivot Index | [View](Arrays/724_Find_Pivot_Index.cpp) |
 | 118 | Pascal's Triangle | [View](Arrays/118_Pascals_Triangle.cpp) |
+| 121 | Best Time to Buy and Sell Stock | [View](Arrays/121_Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| 189 | Rotate Array | [View](Arrays/189_Rotate_Array.cpp) |
+| 448 | Find All Numbers Disappeared in an Array | [View](Arrays/448_Find_All_Numbers_Disappeared.cpp) |
+| 125 | Valid Palindrome | [View](Arrays/125_Valid_Palindrome.cpp) |
+| 344 | Reverse String | [View](Arrays/344_Reverse_String.cpp) |
+| 387 | First Unique Character in a String | [View](Arrays/387_First_Unique_Character.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
