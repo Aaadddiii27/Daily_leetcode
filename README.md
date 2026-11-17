@@ -37,6 +37,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 125 | Valid Palindrome | [View](Arrays/125_Valid_Palindrome.cpp) |
 | 344 | Reverse String | [View](Arrays/344_Reverse_String.cpp) |
 | 387 | First Unique Character in a String | [View](Arrays/387_First_Unique_Character.cpp) |
+| 704 | Binary Search | [View](Arrays/704_Binary_Search.cpp) |
+| 202 | Happy Number | [View](Arrays/202_Happy_Number.cpp) |
+| 367 | Valid Perfect Square | [View](Arrays/367_Valid_Perfect_Square.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
