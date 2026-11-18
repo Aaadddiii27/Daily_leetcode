@@ -40,6 +40,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 704 | Binary Search | [View](Arrays/704_Binary_Search.cpp) |
 | 202 | Happy Number | [View](Arrays/202_Happy_Number.cpp) |
 | 367 | Valid Perfect Square | [View](Arrays/367_Valid_Perfect_Square.cpp) |
+| 13 | Roman to Integer | [View](Arrays/013_Roman_to_Integer.cpp) |
+| 20 | Valid Parentheses | [View](Arrays/020_Valid_Parentheses.cpp) |
+| 14 | Longest Common Prefix | [View](Arrays/014_Longest_Common_Prefix.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
