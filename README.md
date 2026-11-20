@@ -43,6 +43,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 13 | Roman to Integer | [View](Arrays/013_Roman_to_Integer.cpp) |
 | 20 | Valid Parentheses | [View](Arrays/020_Valid_Parentheses.cpp) |
 | 14 | Longest Common Prefix | [View](Arrays/014_Longest_Common_Prefix.cpp) |
+| 496 | Next Greater Element I | [View](Arrays/496_Next%20Greater%20Element%20I.cpp) |
+| 1047 | Remove All Adjacent Duplicates In String | [View](Arrays/1047_Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp) |
+| 844 | Backspace String Compare | [View](Arrays/844_Backspace%20String%20Compare.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
