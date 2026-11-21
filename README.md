@@ -46,6 +46,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 496 | Next Greater Element I | [View](Arrays/496_Next%20Greater%20Element%20I.cpp) |
 | 1047 | Remove All Adjacent Duplicates In String | [View](Arrays/1047_Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp) |
 | 844 | Backspace String Compare | [View](Arrays/844_Backspace%20String%20Compare.cpp) |
+| 232 | Implement Queue using Stacks | [View](Arrays/232_Implement%20Queue%20using%20Stacks.cpp) |
+| 225 | Implement Stack using Queues | [View](Arrays/225_Implement%20Stack%20using%20Queues.cpp) |
+| 682 | Baseball Game | [View](Arrays/682_Baseball%20Game.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
