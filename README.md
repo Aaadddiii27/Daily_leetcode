@@ -49,6 +49,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 232 | Implement Queue using Stacks | [View](Arrays/232_Implement%20Queue%20using%20Stacks.cpp) |
 | 225 | Implement Stack using Queues | [View](Arrays/225_Implement%20Stack%20using%20Queues.cpp) |
 | 682 | Baseball Game | [View](Arrays/682_Baseball%20Game.cpp) |
+| 155 | Min Stack | [View](Arrays/155_Min%20Stack.cpp) |
+| 739 | Daily Temperatures | [View](Arrays/739_Daily%20Temperatures.cpp) |
+| 503 | Next Greater Element II | [View](Arrays/503_Next%20Greater%20Element%20II.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
