@@ -52,6 +52,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 155 | Min Stack | [View](Arrays/155_Min%20Stack.cpp) |
 | 739 | Daily Temperatures | [View](Arrays/739_Daily%20Temperatures.cpp) |
 | 503 | Next Greater Element II | [View](Arrays/503_Next%20Greater%20Element%20II.cpp) |
+| 901 | Online Stock Span | [View](Arrays/901_Online%20Stock%20Span.cpp) |
+| 735 | Asteroid Collision | [View](Arrays/735_Asteroid%20Collision.cpp) |
+| 402 | Remove K Digits | [View](Arrays/402_Remove%20K%20Digits.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
