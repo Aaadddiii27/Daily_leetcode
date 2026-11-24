@@ -55,6 +55,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 901 | Online Stock Span | [View](Arrays/901_Online%20Stock%20Span.cpp) |
 | 735 | Asteroid Collision | [View](Arrays/735_Asteroid%20Collision.cpp) |
 | 402 | Remove K Digits | [View](Arrays/402_Remove%20K%20Digits.cpp) |
+| 206 | Reverse Linked List | [View](LinkedList/206_Reverse%20Linked%20List.cpp) |
+| 21 | Merge Two Sorted Lists | [View](LinkedList/21_Merge%20Two%20Sorted%20Lists.cpp) |
+| 141 | Linked List Cycle | [View](LinkedList/141_Linked%20List%20Cycle.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
