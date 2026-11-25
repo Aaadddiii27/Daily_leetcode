@@ -58,6 +58,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 206 | Reverse Linked List | [View](LinkedList/206_Reverse%20Linked%20List.cpp) |
 | 21 | Merge Two Sorted Lists | [View](LinkedList/21_Merge%20Two%20Sorted%20Lists.cpp) |
 | 141 | Linked List Cycle | [View](LinkedList/141_Linked%20List%20Cycle.cpp) |
+| 876 | Middle of the Linked List | [View](LinkedList/876_Middle%20of%20the%20Linked%20List.cpp) |
+| 83 | Remove Duplicates from Sorted List | [View](LinkedList/83_Remove%20Duplicates%20from%20Sorted%20List.cpp) |
+| 203 | Remove Linked List Elements | [View](LinkedList/203_Remove%20Linked%20List%20Elements.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
