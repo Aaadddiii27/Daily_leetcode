@@ -61,6 +61,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 876 | Middle of the Linked List | [View](LinkedList/876_Middle%20of%20the%20Linked%20List.cpp) |
 | 83 | Remove Duplicates from Sorted List | [View](LinkedList/83_Remove%20Duplicates%20from%20Sorted%20List.cpp) |
 | 203 | Remove Linked List Elements | [View](LinkedList/203_Remove%20Linked%20List%20Elements.cpp) |
+| 160 | Intersection of Two Linked Lists | [View](LinkedList/160_Intersection%20of%20Two%20Linked%20Lists.cpp) |
+| 234 | Palindrome Linked List | [View](LinkedList/234_Palindrome%20Linked%20List.cpp) |
+| 19 | Remove Nth Node From End of List | [View](LinkedList/19_Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
