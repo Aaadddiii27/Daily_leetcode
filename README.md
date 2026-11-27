@@ -64,6 +64,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 160 | Intersection of Two Linked Lists | [View](LinkedList/160_Intersection%20of%20Two%20Linked%20Lists.cpp) |
 | 234 | Palindrome Linked List | [View](LinkedList/234_Palindrome%20Linked%20List.cpp) |
 | 19 | Remove Nth Node From End of List | [View](LinkedList/19_Remove%20Nth%20Node%20From%20End%20of%20List.cpp) |
+| 2 | Add Two Numbers | [View](LinkedList/2_Add%20Two%20Numbers.cpp) |
+| 24 | Swap Nodes in Pairs | [View](LinkedList/24_Swap%20Nodes%20in%20Pairs.cpp) |
+| 92 | Reverse Linked List II | [View](LinkedList/92_Reverse%20Linked%20List%20II.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
