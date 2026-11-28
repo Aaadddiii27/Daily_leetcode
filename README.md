@@ -67,6 +67,9 @@ My daily practice of Data Structures and Algorithms through LeetCode, with solut
 | 2 | Add Two Numbers | [View](LinkedList/2_Add%20Two%20Numbers.cpp) |
 | 24 | Swap Nodes in Pairs | [View](LinkedList/24_Swap%20Nodes%20in%20Pairs.cpp) |
 | 92 | Reverse Linked List II | [View](LinkedList/92_Reverse%20Linked%20List%20II.cpp) |
+| 61 | Rotate List | [View](LinkedList/61_Rotate%20List.cpp) |
+| 143 | Reorder List | [View](LinkedList/143_Reorder%20List.cpp) |
+| 142 | Linked List Cycle II | [View](LinkedList/142_Linked%20List%20Cycle%20II.cpp) |
 ---
 
 More problems and solutions will be added as I continue practicing.
